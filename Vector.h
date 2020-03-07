@@ -2,6 +2,8 @@
 #include <vector>
 #include <fstream>
 #include <string>
+#indef Vector_h
+#define Vector_h
 
 using namespace std;
 
